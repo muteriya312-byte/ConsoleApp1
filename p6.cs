@@ -25,6 +25,9 @@ namespace ConsoleApp1
 
             result = a + b + c;
             Console.WriteLine("Result is : " + result);
+
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment No. :  24SOECE11043");
             Console.ReadLine();
         }
     }

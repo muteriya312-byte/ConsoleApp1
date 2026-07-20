@@ -15,6 +15,8 @@ namespace ConsoleApp1
             str = Console.ReadLine();
             result = str.ToUpper();
             Console.WriteLine(result);
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment No. :  24SOECE11043");
         }
     }
 }

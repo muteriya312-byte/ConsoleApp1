@@ -30,6 +30,9 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("This is not Armstrong number");
             }
+            Console.WriteLine();
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment No. :  24SOECE11043");
             Console.ReadLine();
         }
     }

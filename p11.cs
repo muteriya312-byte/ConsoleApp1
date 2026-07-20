@@ -30,6 +30,8 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Invalid Gender");
             }
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment no. : 24SOECE11043");
             Console.ReadLine();
         }
     }

@@ -22,6 +22,8 @@ namespace ConsoleApp1
                 i++;
 
             }
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment No. :  24SOECE11043");
             Console.Read();
         }
     }

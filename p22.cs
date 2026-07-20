@@ -1,44 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp1
+class p22
 {
-    internal class p22
+    static void Main()
     {
-        static void Main(string[] args)
+        int n = 5; 
+        for (int i = 1; i <= n; i++)
         {
-            int rows = 5;
-            for(int i=1; i<=rows; i ++)
+            for (int j = i; j < n; j++)
             {
-                for(int j=i;  j<=rows; j++)
-                {
-                    Console.Write(" ");
-
-                }
-                for(int k = 1; k <= (2 * i) - 1; k++)
-                {
-                    Console.Write("*"); 
-                }
-                Console.WriteLine();
+                Console.Write(" ");
             }
 
-            //second half
-            for(int i = rows-1; i>=1; i--)
+            for (int j = 1; j <= (2 * i - 1); j++)
             {
-                for(int j=1; j< rows-i; j++)
-                {
-                    Console.Write(" ");
-                }
-                for (int k = 1; k<=(2* i)-1; k++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
+                Console.Write("*");
             }
-            Console.ReadLine();
+
+            Console.WriteLine();
+        }
+
+        for (int i = n - 1; i >= 1; i--)
+        {
+            for (int j = n; j > i; j--)
+            {
+                Console.Write(" ");
+            }
+
+            for (int j = 1; j <= (2 * i - 1); j++)
+            {
+                Console.Write("*");
+            }
+
+            Console.WriteLine();
         }
     }
 }

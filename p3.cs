@@ -22,6 +22,8 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Number is ODD");
             }
+            Console.WriteLine("Name : Mital uteriya");
+            Console.WriteLine("Enrollment no. : 24SOECE11043");
             Console.ReadLine();
         }
     }

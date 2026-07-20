@@ -20,6 +20,8 @@ namespace ConsoleApp1
                 fact = fact * i;
             }
             Console.WriteLine("Factorial of " + number + ":" + fact);
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment No. :  24SOECE11043");
             Console.ReadLine();
         }
     }

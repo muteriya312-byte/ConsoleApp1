@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Name : Mital uteriya");
+            Console.WriteLine("Enrollment no. : 24SOECE11043");
             Console.WriteLine("DOB : 29/11/2006");
             Console.WriteLine("Address : Vadali");
             Console.WriteLine("City : Rajkot");

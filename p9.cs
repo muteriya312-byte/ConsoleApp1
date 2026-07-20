@@ -17,17 +17,20 @@ namespace ConsoleApp1
             String result = " ";
 
             foreach(Char ch in str)
-            {
+            
                 if (Char.IsUpper(ch))
                 {
                     result += Char.ToLower(ch);
                 }
                 else
                 {
-                    result += Char.ToLower(ch);
+                    result += Char.ToUpper(ch);
                 }
                 Console.WriteLine(result);
-            }
+
+            
+            Console.WriteLine("Name : Mital Uteriya");
+            Console.WriteLine("Enrollment No. :  24SOECE11043");
         }
     }
 }
