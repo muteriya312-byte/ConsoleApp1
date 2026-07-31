@@ -66,6 +66,8 @@
     <Compile Include="p8.cs" />
     <Compile Include="p9.cs" />
     <Compile Include="pp1.cs" />
+    <Compile Include="pp13.cs" />
+    <Compile Include="pp14.cs" />
     <Compile Include="pp2.cs" />
     <Compile Include="pp3.cs" />
     <Compile Include="pp4.cs" />
