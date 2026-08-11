@@ -80,6 +80,8 @@
     <Compile Include="t5.cs" />
     <Compile Include="t6.cs" />
     <Compile Include="t7.cs" />
+    <Compile Include="t8.cs" />
+    <Compile Include="t9.cs" />
     <Compile Include="TestRef.cs" />
   </ItemGroup>
   <ItemGroup>
