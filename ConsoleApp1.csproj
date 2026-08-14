@@ -74,6 +74,8 @@
     <Compile Include="pp5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="t1.cs" />
+    <Compile Include="t10.cs" />
+    <Compile Include="t11.cs" />
     <Compile Include="t2.cs" />
     <Compile Include="t3.cs" />
     <Compile Include="t4.cs" />
