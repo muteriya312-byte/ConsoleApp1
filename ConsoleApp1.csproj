@@ -81,6 +81,7 @@
     <Compile Include="t14.cs" />
     <Compile Include="t15.cs" />
     <Compile Include="t16.cs" />
+    <Compile Include="t17.cs" />
     <Compile Include="t2.cs" />
     <Compile Include="t3.cs" />
     <Compile Include="t4.cs" />
