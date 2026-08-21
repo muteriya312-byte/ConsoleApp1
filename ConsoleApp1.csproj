@@ -76,6 +76,11 @@
     <Compile Include="t1.cs" />
     <Compile Include="t10.cs" />
     <Compile Include="t11.cs" />
+    <Compile Include="t12.cs" />
+    <Compile Include="t13.cs" />
+    <Compile Include="t14.cs" />
+    <Compile Include="t15.cs" />
+    <Compile Include="t16.cs" />
     <Compile Include="t2.cs" />
     <Compile Include="t3.cs" />
     <Compile Include="t4.cs" />
