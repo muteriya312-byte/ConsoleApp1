@@ -82,7 +82,17 @@
     <Compile Include="t15.cs" />
     <Compile Include="t16.cs" />
     <Compile Include="t17.cs" />
+    <Compile Include="t18.cs" />
+    <Compile Include="t19.cs" />
     <Compile Include="t2.cs" />
+    <Compile Include="t20.cs" />
+    <Compile Include="t21.cs" />
+    <Compile Include="t22.cs" />
+    <Compile Include="t23.cs" />
+    <Compile Include="t24_2.cs" />
+    <Compile Include="t24.cs" />
+    <Compile Include="t25.cs" />
+    <Compile Include="t26.cs" />
     <Compile Include="t3.cs" />
     <Compile Include="t4.cs" />
     <Compile Include="t5.cs" />
