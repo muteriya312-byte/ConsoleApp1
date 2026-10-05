@@ -43,6 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="a1.cs" />
+    <Compile Include="a2.cs" />
+    <Compile Include="a3.cs" />
+    <Compile Include="a4.cs" />
+    <Compile Include="a5.cs" />
+    <Compile Include="m1.cs" />
+    <Compile Include="m10.cs" />
+    <Compile Include="m2.cs" />
+    <Compile Include="m3.cs" />
+    <Compile Include="m4.cs" />
+    <Compile Include="m5.cs" />
+    <Compile Include="m6.cs" />
+    <Compile Include="m7.cs" />
+    <Compile Include="m8.cs" />
+    <Compile Include="m9.cs" />
     <Compile Include="p1.cs" />
     <Compile Include="p10.cs" />
     <Compile Include="p11.cs" />
@@ -101,6 +116,16 @@
     <Compile Include="t8.cs" />
     <Compile Include="t9.cs" />
     <Compile Include="TestRef.cs" />
+    <Compile Include="tt1.cs" />
+    <Compile Include="tt10.cs" />
+    <Compile Include="tt2.cs" />
+    <Compile Include="tt3.cs" />
+    <Compile Include="tt4.cs" />
+    <Compile Include="tt5.cs" />
+    <Compile Include="tt6.cs" />
+    <Compile Include="tt7.cs" />
+    <Compile Include="tt8.cs" />
+    <Compile Include="tt9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
