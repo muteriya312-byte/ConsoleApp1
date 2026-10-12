@@ -44,10 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="a1.cs" />
+    <Compile Include="a10.cs" />
     <Compile Include="a2.cs" />
     <Compile Include="a3.cs" />
     <Compile Include="a4.cs" />
     <Compile Include="a5.cs" />
+    <Compile Include="a6.cs" />
+    <Compile Include="a7.cs" />
+    <Compile Include="a8.cs" />
+    <Compile Include="a9.cs" />
     <Compile Include="m1.cs" />
     <Compile Include="m10.cs" />
     <Compile Include="m2.cs" />
