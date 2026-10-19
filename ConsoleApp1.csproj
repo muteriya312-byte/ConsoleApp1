@@ -53,6 +53,12 @@
     <Compile Include="a7.cs" />
     <Compile Include="a8.cs" />
     <Compile Include="a9.cs" />
+    <Compile Include="b1.cs" />
+    <Compile Include="b2.cs" />
+    <Compile Include="b3.cs" />
+    <Compile Include="b4.cs" />
+    <Compile Include="b5.cs" />
+    <Compile Include="b6.cs" />
     <Compile Include="m1.cs" />
     <Compile Include="m10.cs" />
     <Compile Include="m2.cs" />
