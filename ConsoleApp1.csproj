@@ -54,11 +54,17 @@
     <Compile Include="a8.cs" />
     <Compile Include="a9.cs" />
     <Compile Include="b1.cs" />
+    <Compile Include="b10.cs" />
+    <Compile Include="b11.cs" />
+    <Compile Include="b12.cs" />
     <Compile Include="b2.cs" />
     <Compile Include="b3.cs" />
     <Compile Include="b4.cs" />
     <Compile Include="b5.cs" />
     <Compile Include="b6.cs" />
+    <Compile Include="b7.cs" />
+    <Compile Include="b8.cs" />
+    <Compile Include="b9.cs" />
     <Compile Include="m1.cs" />
     <Compile Include="m10.cs" />
     <Compile Include="m2.cs" />
