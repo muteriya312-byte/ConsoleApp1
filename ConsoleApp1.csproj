@@ -57,6 +57,8 @@
     <Compile Include="b10.cs" />
     <Compile Include="b11.cs" />
     <Compile Include="b12.cs" />
+    <Compile Include="b13.cs" />
+    <Compile Include="b14.cs" />
     <Compile Include="b2.cs" />
     <Compile Include="b3.cs" />
     <Compile Include="b4.cs" />
